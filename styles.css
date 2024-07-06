@@ -68,8 +68,8 @@ span a:hover {
 }
 
 .avatar {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     box-sizing: border-box;
     border: 5px #3c3e3b solid;
     border-radius: 50%;
@@ -82,7 +82,7 @@ span a:hover {
 
 .avatar img {
     width: 100%;
-    height: auto;
+    height: 180%;
 }
 
 .content {
